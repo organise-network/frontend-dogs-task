@@ -1,22 +1,44 @@
 # Dogs App
 
-This repository contains the initial code for a React app about dogs. To complete the app, you'll need to add the functionality for saving photos, choosing the best dog, and browsing dog breeds.
+This repository contains the initial code for a React app about dogs. To complete the app, you'll need to add the functionality for browsing random (& very cute) dog photos, and saving your favourites.
 
 You will need to get images of dogs from the API at [https://dog.ceo/dog-api/documentation/](https://dog.ceo/dog-api/documentation/).
 
-This repository is part of CodeYourFuture's [group projects](https://github.com/CodeYourFuture/group-projects).
+![dog app](https://user-images.githubusercontent.com/16071230/169317650-f81bcc3a-5185-45d8-be28-5571b4935d4d.png)
 
-![Screenshot of project](screenshot.png)
+## Set up before we start
+
+1. Ensure you have **node** (min. version `14.18.1`) & **npm** (min. version `6.4.15`) installed in your local dev environment. *We're more than happy to help you with this -- please let us know if you'd like support! This set up is not part of our evaluation.*
+2. Install your **IDE/code editor of choice** (we use VSCode & Webstorm, and we're more than happy for you to use your personal favourite).
+3. Have a **Github account** ready to go for this project, or create a new one. 
+4. Fork this repo!
+
+## Commands
+
+- `npm install`: Install dependencies
+- `npm start`: Run the project
 
 ## What you need to do
 
-- Show a random picture of a dog in the "Random Dogs" panel. When the "Next Dog" button is clicked, show a new random picture of a dog.
-- When the "Save Image" button is clicked, this image should be added to the Saved Photos area.
-- Show two pictures of dogs in the "Choose the best dog" panel. Each picture should come from a different dog breed. When the user selects a "Best Dog", it should treat it like a "vote" for that dog breed. Display how many "votes" each dog breed gets below the images.
-- In the "Select a Breed" panel, show a random picture from the breed in the select dropdown. When the user selects a new breed, show a random picture from that breed.
-- When the "Show me more!" button is clicked, show another random picture from the breed in the select dropdown.
+- **Task 1:** When the "Next Dog" button is clicked, show a new random picture of a dog in the "Random Dogs" panel.
+- **Task 2:** When the "Save Image" button is clicked, this image should be added to the "Saved Photos" area.
 
-## Stretch goals
+## Time spent on this task
 
-- At the top, replace the ??? with a list of the top five dog breeds according to how many "votes" they get in the "Choose the best dog" panel.
-- Allow the user to select _any_ breed in the "Select a Breed" panel by loading all the possible breeds from the API.
+We recommend that the **time spent on the task is between 1 - 2 hours**, and we want to make this work with your schedule. **We will not be evaluating you on time** — this recommendation is to make sure that you get a good opportunity at the task but **do not feel pressure to over-invest your personal time.** 
+
+## What we're evaluating
+
+*If you've chosen to complete this as a take-home, we will go through these questions over a call at a time that suites you. If you've chosen an in-person session, we'll talk through these questions during the call.*
+
+- How do you navigate & break down a new codebase?
+- How do you interact with a new backend API?
+- How do you think through & make decisions around state management?
+- How do you deal with roadblocks/challenges when coding?
+- Can you explain to another developer what choices you've made & what you've built?
+- What are some future improvements that you would add to this project?
+
+
+## Credit & much appreciation
+
+This repository was originally part of CodeYourFuture's [group projects](https://github.com/CodeYourFuture/group-projects), a UK based non-profit organisation that trains refugees and other disadvantaged people to become web developers and helps them to find work in the tech industry. 
