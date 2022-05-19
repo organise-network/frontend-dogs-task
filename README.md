@@ -25,7 +25,7 @@ You will need to get images of dogs from the API at [https://dog.ceo/dog-api/doc
 
 ## Time spent on this task
 
-We recommend that the **time spent on the task is between 1 - 2 hours**, and we want to make this work with your schedule. **We will not be evaluating you on time** — this recommendation is to make sure that you get a good opportunity at the task but **do not feel pressure to over-invest your personal time.** 
+We recommend that the **time spent on the task is around 1 hour**, and we want to make this work with your schedule. **We will not be evaluating you on time** — this recommendation is to make sure that you get a good opportunity at the task but **do not feel pressure to over-invest your personal time.** 
 
 ## What we're evaluating
 
