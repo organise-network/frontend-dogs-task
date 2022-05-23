@@ -12,12 +12,12 @@ There are two options for completing this task, you can either:
 1. Complete this task as a **take-home, with a follow up 30 min call** with our team to discuss the questions listed below, or
 2. Complete this task **live over a 1 hour call** with our team, where we can discuss the questions together on the call.
 
-## Set up before we start
+## Set up before you start
 
 1. Ensure you have **node** (min. version `14.18.1`) & **npm** (min. version `6.4.15`) installed in your local dev environment. *We're more than happy to help you with this -- please let us know if you'd like support! This set up is not part of our evaluation.*
 2. Install your **IDE/code editor of choice** (we use VSCode & Webstorm, and we're more than happy for you to use your personal favourite).
 3. Have a **Github account** ready to go for this project, or create a new one. 
-4. Fork this repo!
+4. Fork this repo! We're happy for you to make this a private repo.
 
 ## Commands
 
@@ -33,21 +33,24 @@ There are two options for completing this task, you can either:
 
 *If you've chosen to complete this as a take-home, we will go through these questions over a call at a time that suits you. If you've chosen an in-person session, we'll talk through these questions during the call.*
 
-- How do you navigate & understand the architecture of a new React codebase?
-- Can you work with & make requests to a new backend API?
-- How do you make decisions around state management?
-- How do you deal with roadblocks/challenges when coding?
-- Can you explain to another developer what choices you've made & what you've built?
-- What are some future improvements that you would add to this project as it scales?
+1. How do you navigate & understand the architecture of a new React codebase?
+2. Can you work with & make requests to a new backend API?
+3. How do you make decisions around state management?
+4. What are some future improvements that you would add to this project as it scales?
 
 
 ## Take-home: Time spent on this task & submitting
 
-If you're completing this task as a take-home, we recommend that the **time spent on the task is around 1 hour**, and we want to make this work with your schedule. **We will not be evaluating you on time** — this recommendation is to make sure that you get a good opportunity at the task but **do not feel pressure to over-invest your personal time.** 
+If you're completing this task as a take-home, we recommend that the **time spent on the task is 1-2 hours**, and we want to make this work with your schedule. **We will not be evaluating you on time** — this recommendation is to make sure that you get a good opportunity at the task but **do not feel pressure to over-invest your personal time.** 
 
-To submit your task, please commit & push your changes to your forked repo and email us when it's ready for us to review. 
+There is no expectation to add tests or styling into your project. **We will not be evaluating you on these.**
 
-*We're more than happy to help you with any questions you have throughout completing the task -- please let us know if you'd like support! Asking questions is not part of our evaluation.*
+To submit your task, please commit & push your changes to your forked repo and email us when it's ready for us to review. Please give access to:
+- lauren@organise.network
+- alex@organise.network
+- sean@organise.network
+
+*We're more than happy to help you with any questions you have throughout completing the task -- please let us know if you'd like support by emailing Lauren at lauren@organise.network! Asking questions is not part of our evaluation.*
 
 
 ## Credit & much appreciation
