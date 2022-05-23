@@ -9,7 +9,7 @@ You will need to get images of dogs from the API at [https://dog.ceo/dog-api/doc
 ## Take-home or in-person/call
 
 There are two options for completing this task, you can either: 
-1. Complete this task as a **take-home, with a follow up 30 min call** with our team to discuss the questions listed below, or
+1. Complete this task as a **take-home, submitted with some brief documentation about your approach**, or
 2. Complete this task **live over a 1 hour call** with our team, where we can discuss the questions together on the call.
 
 ## Set up before you start
@@ -31,13 +31,12 @@ There are two options for completing this task, you can either:
 
 ## What we're evaluating
 
-*If you've chosen to complete this as a take-home, we will go through these questions over a call at a time that suits you. If you've chosen an in-person session, we'll talk through these questions during the call.*
+*If you've chosen to complete this as a take-home, please include some short answers to the questions below to help us understand your approach (bullet points is fine!). If you've chosen an in-person session, we'll talk through these questions during the call.*
 
-1. How do you navigate & understand the architecture of a new React codebase?
-2. Can you work with & make requests to a new backend API?
-3. How do you make decisions around state management?
+1. How did you navigate & understand the architecture of this new React codebase?
+2. How did you go about working with & making requests to the backend API?
+3. How did you make decisions around state management?
 4. What are some future improvements that you would add to this project as it scales?
-
 
 ## Take-home: Time spent on this task & submitting
 
