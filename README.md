@@ -17,7 +17,7 @@ There are two options for completing this task, you can either:
 1. Ensure you have **node** (min. version `14.18.1`) & **npm** (min. version `6.4.15`) installed in your local dev environment. *We're more than happy to help you with this -- please let us know if you'd like support! This set up is not part of our evaluation.*
 2. Install your **IDE/code editor of choice** (we use VSCode & Webstorm, and we're more than happy for you to use your personal favourite).
 3. Have a **Github account** ready to go for this project, or create a new one. 
-4. Clone this repo into you own! We're happy for you to make this a private repo.
+4. **Clone this repo** into your own! We're happy for you to make this a private repo.
 
 ## Commands
 
