@@ -17,7 +17,7 @@ There are two options for completing this task, you can either:
 1. Ensure you have **node** (min. version `14.18.1`) & **npm** (min. version `6.4.15`) installed in your local dev environment. *We're more than happy to help you with this -- please let us know if you'd like support! This set up is not part of our evaluation.*
 2. Install your **IDE/code editor of choice** (we use VSCode & Webstorm, and we're more than happy for you to use your personal favourite).
 3. Have a **Github account** ready to go for this project, or create a new one. 
-4. Fork this repo! We're happy for you to make this a private repo.
+4. Clone this repo into you own! We're happy for you to make this a private repo.
 
 ## Commands
 
@@ -45,7 +45,7 @@ If you're completing this task as a take-home, we recommend that the **time spen
 
 There is no expectation to add tests or styling into your project. **We will not be evaluating you on these.**
 
-To submit your task, please commit & push your changes to your forked repo and email us when it's ready for us to review. Please give access to:
+To submit your task, please commit & push your changes to your repo and email us when it's ready for us to review. Please give access to:
 - lauren@organise.network
 - alex@organise.network
 - sean@organise.network
