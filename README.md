@@ -38,6 +38,8 @@ _We're more than happy to help you with any questions you have about the exercis
 - **Task 4:** Add a "Share this Image" button, so a user can share a link to the Dog App, which will show the shared image.
 - **Task 5:** Add a "Previous Dog" button, which lets a user go back to the last random dog image they viewed.
 
+Please feel free to make assumptions about any ambiguous requirements - please document any assumptions you make.
+
 ## What we're evaluating
 
 1. How you approach adding new features to a new codebase
