@@ -50,7 +50,7 @@ Please feel free to make assumptions about any ambiguous requirements - please d
 ## Submission of your exercise
 
 1. Before submitting, please add a section to the top of this README with some _brief_ documentation explaining how far through the tasks you got, your approach, any assumptions you have made, and any improvements you would make given more time.
-2. To submit your task, please commit & push your changes to your private GitHub repo. 
+2. To submit your task, please commit & push your changes to your private GitHub clone of the repo. 
 3. Give access to the following GitHub users so we can review your submission:
   - https://github.com/asibs
   - https://github.com/martinaschwarz
