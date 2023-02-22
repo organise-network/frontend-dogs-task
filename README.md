@@ -12,7 +12,11 @@ You will need to get images of dogs from the API at [https://dog.ceo/dog-api/doc
 
 There is no expectation to add tests or styling into your project. **We will not be evaluating you on these.**
 
-*We're more than happy to help you with any questions you have about the exercise -- please let us know if you'd like support by emailing andrew@organise.network & martina@organise.network -- asking questions is not part of our evaluation.*
+_We're more than happy to help you with any questions you have about the exercise -- please let us know if you'd like support by emailing andrew@organise.network & martina@organise.network -- asking questions is not part of our evaluation._
+
+**Organise is deeply committed to inclusive working practices, so during the application process we commit to:**
+- Paying for childcare or care costs for any dependants whilst you're doing your interviews or tasks
+- Making any reasonable adjustments - for example ensuring we can organise BSL interpreters in advance if you'd like them
 
 ## Set up before you start
 
